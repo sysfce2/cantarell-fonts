@@ -1,0 +1,32 @@
+# Catalan (Valencian) translation for cantarell-fonts.
+# Copyright (C) 2023 cantarell-fonts's COPYRIGHT HOLDER
+# This file is distributed under the same license as the cantarell-fonts package.
+# turbocat009 <turbocat009@gmail.com>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cantarell-fonts master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/cantarell-fonts/issues\n"
+"POT-Creation-Date: 2023-08-08 10:44+0000\n"
+"PO-Revision-Date: 2023-08-08 10:44+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Catalan (Valencian) <gnome@llistes.softcatala.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: appstream/org.gnome.cantarell.metainfo.xml.in:6
+msgid "Cantarell"
+msgstr "Cantarell"
+
+#: appstream/org.gnome.cantarell.metainfo.xml.in:7
+msgid "Humanist sans serif font"
+msgstr "Tipus de lletra humanista sans serif"
+
+#: appstream/org.gnome.cantarell.metainfo.xml.in:9
+msgid ""
+"The Cantarell font family is a contemporary Humanist sans serif designed for "
+"on-screen reading. The fonts were originally designed by Dave Crossland."
+msgstr "La família del tipus de lletra Cantarell és un sans serif humanista contemporani dissenyat per a "
+"llegir a la pantalla. Les fonts van ser originalment disenyades per Dave Crossland."
